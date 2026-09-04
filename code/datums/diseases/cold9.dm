@@ -3,7 +3,7 @@
 	max_stages = 3
 	spread_text = "On contact"
 	spread_flags = DISEASE_SPREAD_BLOOD | DISEASE_SPREAD_CONTACT_SKIN | DISEASE_SPREAD_CONTACT_FLUIDS
-	cure_text = "Common Cold Anti-bodies & Broad-spectrum antibiotics"
+	cure_text = "Common Cold Anti-bodies & antibiotics"
 	cures = list(/datum/reagent/medicine/antibiotic)
 	agent = "ICE9-rhinovirus"
 	viable_mobtypes = list(/mob/living/carbon/human)

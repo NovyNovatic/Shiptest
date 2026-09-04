@@ -19,7 +19,7 @@
 
 /datum/borer_chem/antibiotic
 	chem = /datum/reagent/medicine/antibiotic
-	chemname = "Broad-spectrum antibiotics"
+	chemname = "broad-spectrum antibiotics"
 	chem_desc = "Prevents your host from spreading diseases, as well as cures some specific types of disease. Also known to hide borers from rudimentary health scans."
 	chemuse = 75
 	quantity = 5

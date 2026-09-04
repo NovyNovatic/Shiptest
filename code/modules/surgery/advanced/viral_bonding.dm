@@ -1,6 +1,6 @@
 /datum/surgery/advanced/viral_bonding
 	name = "Viral Bonding"
-	desc = "A surgical procedure that forces a symbiotic relationship between a virus and its host. The patient must be dosed with Broad-spectrum antibiotics, virus food, and formaldehyde."
+	desc = "A surgical procedure that forces a symbiotic relationship between a virus and its host. The patient must be dosed with broad-spectrum antibiotics, virus food, and formaldehyde."
 	steps = list(/datum/surgery_step/incise,
 				/datum/surgery_step/retract_skin,
 				/datum/surgery_step/clamp_bleeders,

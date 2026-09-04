@@ -187,7 +187,7 @@
 	list_reagents = list(/datum/reagent/medicine/charcoal = 15)
 
 /obj/item/reagent_containers/syringe/antibiotic
-	name = "syringe (Broad-spectrum antibiotics)"
+	name = "syringe (broad-spectrum antibiotics)"
 	desc = "Contains specialized antibodies to treat infection and disease."
 	list_reagents = list(/datum/reagent/medicine/antibiotic = 15)
 
